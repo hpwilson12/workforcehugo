@@ -1,0 +1,17 @@
+{{define "main"}}
+<section class="section">
+    <div class="container content">
+        <h1 class="title">{{.Title}}</h1>
+        {{.Content}}
+    </div>
+</section>
+
+{{end}}
+
+{{define "javascript"}}
+{{ if isset .Params "javascript" }}
+{{range .Params.javascript}}
+<script src="{{ . }}"></script>
+{{ end }}
+{{ end }}
+{{end}}

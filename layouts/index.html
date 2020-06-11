@@ -6,59 +6,64 @@
         <div class="column is-one-third">
             <img src="/images/assets/Evan.JPG" alt="Evan photo">
         </div>
-        <div class="column is-one-third-widescreen is-size-5"> Sheps Health Workforce NC provides timely, objective data
-            and
-            analysis to
+        <div class="column is-one-third-widescreen is-size-5">
+            Sheps Health Workforce NC provides timely, objective data and analysis to
             inform health workforce policy in North Carolina and across the United States. We are based at the Cecil G.
             Sheps Center for Health Services at UNC-Chapel Hill, but our mission is statewide, a collaboration between
             the Sheps Center, NC AHEC and the health professions licensing boards. </div>
 
     </div>
 </section>
+
 <section class="section">
-    <h5 class="title has-text-centered">Explore</h5>
-    <div class="columns is-centered">
-        <div class="column is-one-fifth">
-            <figure class="image">
-                <img src="/images/assets/dataviz.svg" alt="data-viz">
-                <figcaption class="subtitle">Supply Map</figcaption>
-            </figure>
-            <a class="button" href="#"> Explore</a>
-
+    <h1 class="title has-text-centered">Explore</h1>
+    <div class="columns">
+        <div class="column has-text-centered">
+            <img class="image is-128x128" src="/images/assets/dataviz.svg" alt="data-viz" style="display:inline-block">
+            <p class="subtitle">Interactive Visualizations</p>
+            <a class="button" href="/interactive">Explore</a>
         </div>
 
-        {{/*  <div class="column is-one-fifth card">
-            <div class="card-image">
-                <figure class="image">
-                    <img src="/images/assets/dataviz.svg" alt="data-viz">
-
-                </figure>
-                <div class="card-content">
-                    <p class="subtitle">Interactive Visualization</p>
-                </div>
-
-            </div>  */}}
-
-
-        <div class="column is-one-fifth">
-            <figure>
-                <img class="image is-128x128" src="/images/assets/blanknc.svg" alt="data-viz">
-                <figcaption class="subtitle">Supply Map</figcaption>
-            </figure>
-            <a class="button" href="/supply"> Explore</a>
+        <div class="column  has-text-centered ">
+            <img class="image is-128x128" src="/images/assets/blanknc.svg" alt="nc-map" style="display:inline-block">
+            <p class="subtitle">Supply Visualization</p>
+            <a class="button" href="interactive/supply">Explore</a>
         </div>
-
-        <div class="column is-one-fifth">
-            <figure>
-                <img class="image is-128x128" src="/images/assets/blog.svg" alt="data-viz">
-                <figcaption class="subtitle">Blogs and Briefs</figcaption>
-            </figure>
-
+        <div class="column has-text-centered ">
+            <img class="image is-128x128" src="/images/assets/blog.svg" alt="blog" style="display:inline-block">
+            <p class="subtitle">Blogs and Briefs</p>
             <a class="button" href="/blog">Explore</a>
-
-
         </div>
+    </div>
+
 </section>
 
+<section class="section">
+    <h1 class="title has-text-centered">Recent Blogs and Briefs</h1>
+    <div class="columns is-multiline">
+        {{ range first 3 (where .Site.RegularPages "Type" "blog") }}
+        <div class="column is-one-third">
+            <div class="card">
+                <div class="card-image">
+                    <a href="{{.Permalink}}">
+                        <figure class="image">
+                            <img src="{{.Params.teaserImage}}" alt="{{.Title}}">
+                        </figure>
+                    </a>
+                </div>
+                <div class="card-footer">
+
+
+                    <a href="{{.Permalink}}">
+                        <p class="card-footer-item subtitle">{{.Params.teaserText}}</p>
+                    </a>
+
+
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>
 
 {{end}}

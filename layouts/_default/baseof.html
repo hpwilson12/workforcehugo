@@ -12,45 +12,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="/css/bulma.min.css" type="text/css">
-    {{/*  <style>
-        .header {
-            Display: flex;
-            flex-direction: row;
-            flex-wrap: wrap;
-            margin: 20px;
-            padding: 15px;
-            justify-content: center;
-
-        }
-
-        .header-item {
-            justify-content: center;
-            flex-direction: row;
-            max-width: 375px;
-            Margin: 10px;
-            Padding: 10px;
-            font-size: 19px;
-
-        }
-
-
-        .landing {
-            Display: flex;
-            flex-direction: row;
-            margin: 5px;
-            padding: 15px;
-            justify-content: center;
-            flex-wrap: wrap;
-
-        }
-
-        .landingitem {
-
-            justify-content: center;
-            Margin: 30px;
-            text-align: center;
-        }
-    </style>  */}}
 
 </head>
 
@@ -148,7 +109,7 @@
                             About
                         </a>
 
-                        <a class="navbar-item" href="/supply">
+                        <a class="navbar-item" href="/interactive/supply">
                             Supply
                         </a>
                         <a class="navbar-item"
@@ -239,6 +200,9 @@
 
         });
     </script>
+    {{ block "javascript" . }}
+
+    {{ end }}
 
 </body>
 
