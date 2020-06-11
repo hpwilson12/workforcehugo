@@ -1,0 +1,16 @@
+---
+title: >-
+  NC's Public Medical Schools Retain More Graduates In-State Than Private
+  Medical Schools Do.
+date: 2018-11-14T18:30:53.341Z
+author: Julie Spero
+draft: false
+teaserText: Which medical schools retain the highest percentage of graduates in NC?
+teaserImage: /images/thumbnails/med_school_cohorts_nc_2008-2012.jpg
+keywords: 'physician, medical school, student, Duke, ECU, UNC, Wake Forest'
+---
+
+* Compared to other medical schools, a higher percentage of each graduating class from East Carolina University practices in NC.
+* ECU's legislatively mandated mission is to increase the supply of physicians for the state and only NC residents are considered for admission.
+
+![](/images/posts/med_school_cohorts_nc_2008-2012.jpg)
