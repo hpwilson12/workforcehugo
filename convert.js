@@ -4,10 +4,11 @@ const yaml = require('js-yaml');
 
 const files = fs.readdirSync("content/blog");
 files.forEach(function (d) {
-    if (d != "aliased" & d != "_index.md") {
+    if (d != "imageChanged" & d != "_index.md" & d != "infectious_disease_md") {
         const postArray = fs.readFileSync("content/blog/" + d, 'utf8').split('---')
         const top = postArray[1];
         const body = postArray[2];
+        // const imgReg = /!\[(.*?)\]\((.*?)\)/g;
         const header = yaml.safeLoad(top);
         const newFileName = d.slice(0, -3);
         const teaserImageStripped = header.teaserImage.split("/")[3].split(".")[0];
@@ -25,6 +26,6 @@ files.forEach(function (d) {
 
         const newPage = "---\n" + yaml.safeDump(newHeader) + "---\n" + body;
 
-        fs.writeFileSync("content/blog/aliased/" + newFileName + ".md", newPage);
+        fs.writeFileSync("content/blog/imageChanged/" + newFileName + ".md", newPage);
     }
 })

@@ -18,5 +18,6 @@ aliases:
 * The age distribution of rural dentists is relatively even, with a slight uptick for dentists in their mid-60’s.  
 * Some dentists may practice part-time in rural counties.  The data set does not include hours by practice location, so we are unable to determine FTE (full-time equivalent) coverage by practice location.  
 
-![](/images/posts/age_density_count_dds_2018.png)
+{{< img src="/images/posts/age_density_count_dds_2018.png" alt="Age and Rurality of NC Dentists">}}
+
 

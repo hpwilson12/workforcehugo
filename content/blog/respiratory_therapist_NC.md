@@ -21,11 +21,11 @@ As North Carolina prepares for a rising number of COVID-19 cases requiring hospi
 
 Experiences in Italy, China and the current outbreaks in Washington, California and New York have demonstrated that COVID-19’s impacts will likely be concentrated geographically. This makes it critical to understand how the state’s supply of RTs and ICU beds varies by county.  **Figure 1** shows the RT workforce is concentrated in metropolitan areas with large academic health centers. 
 
-![A map displaying Respiratory Therapists per 10,000 Population, North Carolina, 2020](/images/posts/rt_10k2020.png "Respiratory Therapists per 10,000 Population, North Carolina, 2020")
+{{< img alt="A map displaying Respiratory Therapists per 10,000 Population, North Carolina, 2020" src="/images/posts/rt_10k2020.png">}}
 
  35 counties in NC have no ICU beds and/or no RTs (**Figure 2**). Eight counties have an ICU bed to RT ratio of greater than one, meaning these counties have more ICU beds then RTs —Alamance, Durham, Craven, Moore, Cleveland, Rutherford, Polk, and McDowell. The number of ventilators an RT can safely manage at one time depends on patient acuity.  Data suggest that for patients with highly acute illness, the safe ratio is [one RT to four ventilators](<https://www.csrc.org/resources/Documents/Safe Staffing files/Final Safe Staffing Papers/CSRC Staffing Position Statement and White Paper V10112016.pdf>), and with less acute patient illness the ratio may increase up to [one RT per nine ventilators](https://www.njsrc.org/?faq_wd=a-definitive-limit-to-the-number-of-ventilated-patients-being-cared-for-by-any-one-therapist). 
 
-![A graph of Intensive Care Unit (ICU) Beds per Respiratory Therapist, North Carolina, 2020](/images/posts/artboard-1-4x.png "Intensive Care Unit (ICU) Beds per Respiratory Therapist, North Carolina, 2020")
+{{< img alt="A graph of Intensive Care Unit (ICU) Beds per Respiratory Therapist, North Carolina, 2020" src="/images/posts/artboard-1-4x.png">}}
 
 NC’s Respiratory Care Board (NCRCB) has [acted swiftly](https://www.usatoday.com/story/news/nation/2020/03/27/coronavirus-hospitals-face-shortages-respiratory-therapists-run-ventilators/2914635001/) to surge the state’s potential workforce. The Board has waived continuing professional development (CPD) and late fees, postponed background checks, allowed RTs whose licenses have expired within the last 3 years to renew their license without paperwork, and allowed RTs between 3 and 5 years out of practice to renew by a signed application. Over the past few weeks, the board has also brought 90 2nd-year Respiratory Care Assistants (RCAs) into practice, and is processing out-of-state reciprocity licenses in 48-hours. 
 

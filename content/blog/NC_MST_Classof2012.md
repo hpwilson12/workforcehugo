@@ -19,4 +19,4 @@ aliases:
 * All four physicians in primary care practice in a rural county were family medicine physicians who graduated from a public medical school: two each from East Carolina University and the University of North Carolina-Chapel Hill.
 * Primary care includes family medicine, general internal medicine, general pediatrics, internal medicine-pediatrics, and obstetrics & gynecology.
 
-![](/images/posts/ncmedschoolclassof2012_2017outcomes.jpg)
+{{< img  src="/images/posts/ncmedschoolclassof2012_2017outcomes.jpg">}}

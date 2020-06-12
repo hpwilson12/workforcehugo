@@ -18,5 +18,5 @@ aliases:
 * Our definition of primary care clinician includes physicians, nurse practitioners (NPs), physician assistants (PAs) and certified nurse midwives (CNMs). 
 
 
-  ![](/images/posts/nc_primarycare_map.png)
+  {{< img  src="/images/posts/nc_primarycare_map.png">}}
 

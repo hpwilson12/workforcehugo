@@ -15,4 +15,4 @@ aliases:
 
 - The increasing population of residents who are 65 or older in rural counties will drive ongoing demand for healthcare services in rural areas.
 - The types of services that health professionals provide in rural areas will also continue to shift, reflecting the needs of an aging population.
-![](/images/posts/bubble_plot_high_quality_desktop.png)
+{{< img  src="/images/posts/bubble_plot_high_quality_desktop.png">}}

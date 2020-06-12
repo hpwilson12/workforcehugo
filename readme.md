@@ -13,6 +13,9 @@ crop images to square or 4x3?
     - make images in posts into link images
 	- connect to netlify cms?
 	- generate search index
-	- create redirects for old urls
 	- embed interactives from observable and style with bulma?
 	- documentation, esp if not using netlify cms
+
+    - change config.toml to change baseURL
+
+    - fix interactive psychologist post and beeswarm observable posts
