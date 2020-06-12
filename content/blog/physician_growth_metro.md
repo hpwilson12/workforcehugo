@@ -10,7 +10,10 @@ teaserText: >-
   increase is in urban areas.
 teaserImage: /images/thumbnails/md_metro_nonmetro_line_chart_1979-2018.jpg
 keywords: 'physicians, metropolitan, urban, rural, per capita'
+aliases:
+  - /physician_growth_metro
 ---
+
 
 * The number of physicians in NC has grown over time, outpacing population growth. 
 * The main concern is not the overall number of physicians in North Carolina, but the distribution of physicians in the state. Most of the growth in physicians per capita has occurred in urban counties. 

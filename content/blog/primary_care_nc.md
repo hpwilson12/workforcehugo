@@ -6,7 +6,10 @@ draft: false
 teaserText: 'Primary Care Access in North Carolina is Not Equally Distributed '
 teaserImage: /images/thumbnails/nc_primarycare_map_crop.jpg
 keywords: Primary care; Covid-19; Coronavirus
+aliases:
+  - /primary_care_nc
 ---
+
 
 * Primary care practitioners per capita is one of the  NC Institute of Medicine’s (NCIOM) 21 health indicators for the [Healthy NC 2030](http://nciom.org/healthy-north-carolina-2030/) project. 
 * Access to primary care is necessary to improving the health outcomes of communities. With the recent spread of the novel [coronavirus](https://www.newsobserver.com/news/coronavirus/article241238276.html) in North Carolina, primary care is critical as an entry-point to further care. 

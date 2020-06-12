@@ -6,7 +6,10 @@ draft: false
 teaserText: Does a medical school's mission affect where its graduates practice?
 teaserImage: /images/thumbnails/ncmedschoolgradsin2016workforce.jpg
 keywords: 'physicians, medical school'
+aliases:
+  - /NCMedSchoolRetention2016
 ---
+
 
 * The Brody School of Medicine at East Carolina University has a legislatively mandated mission: to increase the supply of primary care physicians to serve North Carolina.  Only North Carolina applicants are considered for admission to ECU.
 * Consistent with this mission, a higher proportion of ECU’s graduates practice in-state compared to other NC medical schools.

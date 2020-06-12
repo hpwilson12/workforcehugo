@@ -6,7 +6,10 @@ draft: false
 teaserText: What percentage of the residents in your county are 65 and older?
 teaserImage: /images/thumbnails/percent_65_and_older_map.jpg
 keywords: 'demographics, general population'
+aliases:
+  - /percent_65_and_older_map
 ---
+
 
 <ul>
 <li> _Use the slider bar below the map to scroll through years 2000 to 2037 and see the changes by county._

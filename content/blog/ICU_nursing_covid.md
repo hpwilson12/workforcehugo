@@ -8,7 +8,10 @@ draft: false
 teaserText: 'Does NC have the critical care nursing workforce needed to combat COVID-19? '
 teaserImage: /images/thumbnails/criticu2018.jpg
 keywords: nursing; COVID-19
+aliases:
+  - /ICU_nursing_covid
 ---
+
 
 As North Carolina (NC) prepares for a rising number of COVID-19 cases, [@WorkforceNC](https://twitter.com/WorkforceNC) is committed to providing data on the availability of needed health professionals. Check out our blogs on[ infectious disease physicians](https://nchealthworkforce.unc.edu/infectious_disease_md/) and [primary care access](https://nchealthworkforce.unc.edu/primary_care_nc/). 
 

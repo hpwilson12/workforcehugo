@@ -8,7 +8,10 @@ teaserText: >-
   beeswarm plot.
 teaserImage: /images/thumbnails/county_physician_beeswarm.jpg
 keywords: 'beeswarm, interactive, physicians, longitudinal'
+aliases:
+  - /county_physician_beeswarm
 ---
+
 
 <div id='chart-title'></div>
 <div id='viewof-year'></div>

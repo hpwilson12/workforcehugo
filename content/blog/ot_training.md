@@ -6,7 +6,10 @@ draft: false
 teaserText: 37% of NC occupational therapists were trained in state. What about the rest?
 teaserImage: /images/thumbnails/training_map_counts.jpg
 keywords: 'occupational therapists, training, education'
+aliases:
+  - /ot_training
 ---
+
 
 * Occupational therapists (OTs) treat patients with physical, developmental, or cognitive disabilities, focusing on the patient's ability to perform activities for daily life. OTs work with patients in homes, schools, workplaces, and healthcare facilities. 
 * A master's degree is required for an OT to become licensed. National OT organizations recently considered requiring a [doctoral degree](https://www.aota.org/Education-Careers/entry-level-mandate-doctorate-bachelors.aspx) but determined that both a master's or doctorate can be accepted as the entry-level OT degree. 

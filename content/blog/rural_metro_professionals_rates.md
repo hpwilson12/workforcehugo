@@ -10,7 +10,10 @@ teaserText: >-
   counties. 
 teaserImage: /images/thumbnails/metro_nonmetro_rate_chart.jpg
 keywords: 'health professions, rural, nonmetro, rate, total'
+aliases:
+  - /rural_metro_professionals_rates
 ---
+
 
 
 <table>

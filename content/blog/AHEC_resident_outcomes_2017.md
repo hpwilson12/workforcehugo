@@ -10,7 +10,10 @@ teaserText: >-
   practicing in NC
 teaserImage: /images/thumbnails/ahecgme_2017_withlogo_v2.jpg
 keywords: 'AHEC, Physician, resident'
+aliases:
+  - /AHEC_resident_outcomes_2017
 ---
+
 
 * **53%** (n=1,135/2,157) of physicians who completed an **AHEC residency** between 1997-2017 were practicing in NC in 2017
 * **41%** (n=4,561/11,233) of physicians who completed a **non-AHEC residency** between 1997-2017 were practicing in NC in 2017

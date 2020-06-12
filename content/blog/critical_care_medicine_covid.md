@@ -6,9 +6,12 @@ draft: false
 teaserText: Distribution of critical care physician workforce in North Carolina
 teaserImage: /images/thumbnails/critcaremedicine_2018.jpg
 keywords: 'critical care, COVID-19, health workforce'
+aliases:
+  - /critical_care_medicine_covid
 ---
 
-As North Carolina prepares for possible future waves  of COVID-19 cases requiring hospitalization, [@WorkforceNC](https://twitter.com/WorkforceNC) is committed to providing data on the availability of critically needed health professionals, such as [critical care nurses](https://nchealthworkforce.unc.edu/icu_nursing_covid/), [respiratory therapists](https://nchealthworkforce.unc.edu/respiratory_therapist_nc/),[ infectious disease specialists](https://nchealthworkforce.unc.edu/infectious_disease_md/) and [primary care access](https://nchealthworkforce.unc.edu/primary_care_nc/). Health systems in North Carolina are acting quickly to boost the numbers of health care professionals, ICU beds, and equipment. This blog post represents the best available data as of May 21st, 2020.
+
+As North Carolina prepares for possible future waves  of COVID-19 cases requiring hospitalization, [@WorkforceNC](https://twitter.com/WorkforceNC) is committed to providing data on the availability of critically needed health professionals, such as [critical care nurses](/icu_nursing_covid), [respiratory therapists](/respiratory_therapist_nc),[ infectious disease specialists](/infectious_disease_md) and [primary care access](/primary_care_nc). Health systems in North Carolina are acting quickly to boost the numbers of health care professionals, ICU beds, and equipment. This blog post represents the best available data as of May 21st, 2020.
 
 While North Carolina’s early social distancing and stay-in-place measures have flattened the curve, much about [COVID-19 epidemiology is unknown](https://www.shepscenter.unc.edu/wp-content/uploads/2020/04/Brief-3_COVID-19-Modeling-NC-Update_4-28-20.pdf). Subsequent outbreaks of COVID-19 still have the potential to strain the health care system’s critical care and emergency medicine capacity, particularly in rural areas. Critical care physicians, or [intensivists](https://www.umassmemorialhealthcare.org/umass-memorial-medical-center/services-treatments/critical-care/what-intensivist), are board-certified physicians who care for complex and critically ill patients in the ICU, often coordinating a team of nurses, physical therapists, respiratory therapists, and pharmacists. An intensivist completes a residency in pulmonary medicine (most common), pediatrics, or surgery, followed by a fellowship in critical care medicine. They manage ventilator use, invasive monitoring techniques, resuscitation, life support and end-of-life care. 
 

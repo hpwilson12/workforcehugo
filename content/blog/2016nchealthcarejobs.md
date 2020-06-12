@@ -10,7 +10,10 @@ teaserText: >-
   aides/attendants
 teaserImage: /images/thumbnails/nchealthcarejobs2016.jpg
 keywords: 'employment, jobs'
+aliases:
+  - /2016nchealthcarejobs
 ---
+
 
 * Two out of every three health care jobs in North Carolina are in allied health or nursing.
 

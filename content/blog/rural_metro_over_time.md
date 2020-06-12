@@ -10,7 +10,10 @@ teaserText: >-
   metro areas?
 teaserImage: /images/thumbnails/county_physician_beeswarm.jpg
 keywords: 'rural, nonmetro, interactive, longitudinal'
+aliases:
+  - /rural_metro_over_time
 ---
+
 
 <input name="professionSelect" placeholder="Search for a health profession" id="professionSelect"/>
 <div id="chart"></div>

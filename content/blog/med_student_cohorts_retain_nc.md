@@ -8,7 +8,10 @@ draft: false
 teaserText: Which medical schools retain the highest percentage of graduates in NC?
 teaserImage: /images/thumbnails/med_school_cohorts_nc_2008-2012.jpg
 keywords: 'physician, medical school, student, Duke, ECU, UNC, Wake Forest'
+aliases:
+  - /med_student_cohorts_retain_nc
 ---
+
 
 * Compared to other medical schools, a higher percentage of each graduating class from East Carolina University practices in NC.
 * ECU's legislatively mandated mission is to increase the supply of physicians for the state and only NC residents are considered for admission.

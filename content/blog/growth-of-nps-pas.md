@@ -12,7 +12,10 @@ teaserImage: /images/thumbnails/np_pa_growth_color.jpg
 keywords: >-
   physician, NP, PA, nurse practitioner, physician assistant, growth, urban,
   rural, metropolitan
+aliases:
+  - /growth-of-nps-pas
 ---
+
 
 * The total number of NPs and PAs in North Carolina is less than the number of physicians, but new NPs and PAs are entering NC's workforce faster than physicians are.
 * Between 2000 and 2017, the NP workforce grew most rapidly, increasing by 216% in non-rural counties and by 187% in rural counties.

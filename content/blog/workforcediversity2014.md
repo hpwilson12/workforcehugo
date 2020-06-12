@@ -10,7 +10,10 @@ teaserText: >-
   general population.
 teaserImage: /images/thumbnails/ncworkforcediversity2014.jpg
 keywords: 'diversity, race, ethnicity'
+aliases:
+  - /workforcediversity2014
 ---
+
 
 * The underrepresentation of health professionals who identify as American Indian, Black, and Hispanic in North Carolina’s workforce suggests a lack of equity in opportunity to enter these fields.
 

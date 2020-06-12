@@ -6,7 +6,10 @@ draft: false
 teaserText: How diverse is NC's obstetric delivery workforce?
 teaserImage: /images/thumbnails/Obsproviderspreview11feb.jpg
 keywords: 'physicians, certified nurse midwife, cnm, obstetric, pregnant '
+aliases:
+  - /obstetric_provider_race
 ---
+
 
 * In 2018, 21% of NC's population identified as black or African American, compared to 13% of the state's obstetric delivery providers.
 * Similarly, 10% of NC's population identified as Hispanic or Latino in 2018, compared to 3% of NC's obstetric delivery providers.

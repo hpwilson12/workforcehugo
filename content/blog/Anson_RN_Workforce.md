@@ -6,7 +6,10 @@ draft: true
 teaserText: 'NC County Spotlight: The number of RNs in Anson County is declining'
 teaserImage: /images/thumbnails/ansonrnsdeclining.jpg
 keywords: 'nurse, nursing, anson, county spotlight, race, diversity'
+aliases:
+  - /Anson_RN_Workforce
 ---
+
 
 * In 2014, the 152-bed Anson Community Hospital closed and was [replaced with Atrium Health Anson](https://www.northcarolinahealthnews.org/2015/07/31/re-envisioning-the-rural-hospital/), a co-located 15-bed emergency department and primary care physician office.
 

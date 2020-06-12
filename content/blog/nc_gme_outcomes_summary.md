@@ -6,7 +6,10 @@ draft: false
 teaserText: What do we know about NC's GME outcomes?
 teaserImage: /images/thumbnails/cohortgmeretentionbyspec.jpg
 keywords: 'GME, graduate medical education, AHEC'
+aliases:
+  - /nc_gme_outcomes_summary
 ---
+
 
 * North Carolina’s population is growing fast, with 10% percent growth since 2008. The number of physician residency slots is growing even faster. Over the past decade, the number of residency positions in NC has grown by 14%. 
 

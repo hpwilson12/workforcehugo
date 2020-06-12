@@ -6,7 +6,10 @@ draft: false
 teaserText: 'COVID-19, Primary Care, and Infectious Disease Physicians in NC'
 teaserImage: /images/thumbnails/md_id_map_sample.jpg
 keywords: 'physician, covid-19, coronavirus, infectious disease'
+aliases:
+  - /infectious_disease_md
 ---
+
 
 * The first cases of coronavirus (COVID-19) have been [documented in NC](https://www.newsobserver.com/news/local/article241051656.html).  The spread has sparked concerns about public health infrastructure. Adults aged 65 and older are especially vulnerable to coronaviruses and the subsequent respiratory infections they can cause. 
 * During an epidemic like this one, primary care is the entry point to testing and to referral if more intensive and specialized care is necessary.

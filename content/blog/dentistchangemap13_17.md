@@ -8,7 +8,10 @@ teaserText: >-
   go?
 teaserImage: /images/thumbnails/dentist_change_distribution.jpg
 keywords: dentists
+aliases:
+  - /dentistchangemap13_17
 ---
+
 
 ![null](/images/posts/dentist_compare_change_to_genpop_for_web.png)
 

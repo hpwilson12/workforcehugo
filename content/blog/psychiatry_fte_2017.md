@@ -6,7 +6,10 @@ draft: false
 teaserText: Where are psychiatrists practicing in North Carolina?
 teaserImage: /images/thumbnails/psych_fte.jpg
 keywords: 'psychiatrists, physicians, fte'
+aliases:
+  - /psychiatry_fte_2017
 ---
+
 
 * North Carolina has 1.2 psychiatrist FTEs (full-time equivalents) per 10,000 population.
 * Orange County has 9.8% of the psychiatrist FTEs in North Carolina, but only 1.4% of the population.

@@ -6,7 +6,10 @@ draft: false
 teaserText: How many nurse practitioner and physician assistant schools are in NC?
 teaserImage: /images/thumbnails/np_and_pa_school_map_april2019.jpg
 keywords: 'nurse practitioner, np, physician assistant, pa, school, education, preceptor'
+aliases:
+  - /npandpaschools
 ---
+
 
 * North Carolina has nine NP schools and eleven PA schools, with a twelfth PA program at Pfieffer University scheduled to open in January 2020.  
   * Including Pfieffer University, seven of the PA programs opened in 2011 or later.

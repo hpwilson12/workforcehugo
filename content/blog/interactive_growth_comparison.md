@@ -6,7 +6,10 @@ draft: true
 teaserText: Compare the growth of different health professions.
 teaserImage: /images/thumbnails/interactive_growth_comparison.jpg
 keywords: ''
+aliases:
+  - /interactive_growth_comparison
 ---
+
 
 <div class="section">
 <div class="container" id="observablehq-e7ffe015" >

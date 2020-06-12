@@ -8,7 +8,10 @@ teaserText: >-
   manufacturing.
 teaserImage: /images/thumbnails/ncmanufacturingvshealthcarejobs.jpg
 keywords: 'employment, manufacuturing, jobs'
+aliases:
+  - /manufacturingjobs
 ---
+
 
 * Health care and social services employment in NC has increased since 2000, and maintained steady growth even after the economic recession in 2008.
 

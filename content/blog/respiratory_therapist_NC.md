@@ -10,7 +10,10 @@ teaserText: >-
   COVID-19
 teaserImage: /images/thumbnails/rt_10k2020.jpg
 keywords: respiratory therapist; RT; Covid-19; coronavirus
+aliases:
+  - /respiratory_therapist_NC
 ---
+
 
 As North Carolina prepares for a rising number of COVID-19 cases requiring hospitalization, [@WorkforceNC](https://twitter.com/WorkforceNC) is committed to providing data on the availability of critically needed health professionals, such as [critical care nurses](https://nchealthworkforce.unc.edu/icu_nursing_covid/) and [infectious disease specialists.](https://nchealthworkforce.unc.edu/infectious_disease_md/) Health systems in North Carolina are acting quickly to boost the numbers of health care professionals, ICU beds, and equipment. This blog post represents the best available data as of April 3rd, 2020. 
 
