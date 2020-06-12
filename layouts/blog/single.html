@@ -6,3 +6,11 @@
     </article>
 </section>
 {{end}}
+
+{{define "javascript"}}
+{{ if isset .Params "javascript" }}
+{{range .Params.javascript}}
+<script src="{{ . }}"></script>
+{{ end }}
+{{ end }}
+{{end}}
