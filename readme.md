@@ -10,7 +10,6 @@ crop images to square or 4x3?
 
 - switch blog to hugo
 	- image processing pipeline (use page resources?)
-    - make images in posts into link images
 	- connect to netlify cms?
 	- generate search index
 	- embed interactives from observable and style with bulma?

@@ -14,7 +14,7 @@ aliases:
 
 
 * In 2018, 87% of NC dentists practiced primarily or exclusively in metropolitan counties. 
-* There are more younger dentists than older dentists in metropolitan NC counties.  This finding implies that new dentists have consistently gravitated toward practice in urban rather than rural areas.  See our prior [blog post](https://nchealthworkforce.unc.edu/dentistchangemap13_17/) for more on this trend.
+* There are more younger dentists than older dentists in metropolitan NC counties.  This finding implies that new dentists have consistently gravitated toward practice in urban rather than rural areas.  See our prior [blog post](/dentistchangemap13_17/) for more on this trend.
 * The age distribution of rural dentists is relatively even, with a slight uptick for dentists in their mid-60’s.  
 * Some dentists may practice part-time in rural counties.  The data set does not include hours by practice location, so we are unable to determine FTE (full-time equivalent) coverage by practice location.  
 
