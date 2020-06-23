@@ -1,0 +1,16 @@
+{{define "main"}}
+<section class="section columns">
+    <article class="content column is-half is-offset-one-quarter">
+        <h1 class="">{{.Title}}</h1>
+        {{.Content}}
+    </article>
+</section>
+{{end}}
+
+{{define "javascript"}}
+{{ if isset .Params "javascript" }}
+{{range .Params.javascript}}
+<script src="{{ . }}"></script>
+{{ end }}
+{{ end }}
+{{end}}
